@@ -216,7 +216,7 @@ class PureWriter : Initializable {
     }
     ipNoteLabel.text = if (isZh) {
       """
-        未连接或与手机断开
+        未连接或与手机断开了啊
         请打开纯纯写作 Android 版并点击其顶部的云图标获得 IP 地址填于下方
         一旦输入正确 IP，它将自动连接
         提示：
